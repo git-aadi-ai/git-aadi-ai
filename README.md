@@ -8,7 +8,7 @@
 - 👯 **I'm looking to collaborate on:** Full Stack Applications, AI Products, Open Source, and Developer Tools.
 - 🤔 **I'm looking for help with:** Building scalable AI applications and production-ready backend systems.
 - 💬 **Ask me about:** C++, DSA, React, Next.js, Node.js, Python, AI, Firebase, and Git.
-- 📫 **How to reach me:** your-email@example.com
+- 📫 **How to reach me:** 2k24.csai1a.2412094@gmail.com
 - 🎥 **Interests:** Freelancing, Video Editing, Cinematography, and Building AI Products.
 - ⚡ **Fun fact:** I enjoy turning ideas into products that solve real-world problems.
 ## 🌐 Socials:
