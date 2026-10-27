@@ -3,7 +3,7 @@
 
 📍 India
 
-- 🔭 **I'm currently working on:** AI Hire Coach – An AI-powered interview preparation platform that provides resume analysis, mock interviews, personalized feedback, and career guidance.
+- 🔭 **I'm currently working on:** INTERVUiq – An AI-powered interview preparation platform that provides resume analysis, mock interviews, personalized feedback, and career guidance.
 - 🌱 **I'm currently learning:** Data Structures & Algorithms, System Design, Backend Development, Cloud, DevOps, and Generative AI.
 - 👯 **I'm looking to collaborate on:** Full Stack Applications, AI Products, Open Source, and Developer Tools.
 - 🤔 **I'm looking for help with:** Building scalable AI applications and production-ready backend systems.
